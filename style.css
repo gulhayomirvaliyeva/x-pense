@@ -41,8 +41,9 @@
   display: grid;
   align-items: center;
   justify-content: space-between;
-  gap: 20px;
-  width: 230px;
+  gap: 30px;
+  width: 280px;
+  padding-right: 70px;
 }
 
 .online h1{
@@ -57,6 +58,7 @@
   gap: 4px;
   color:#FF7235;
   text-decoration: none;
+  
 }
 .more p{
   color:#FF7235;
